@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+[class*="col-"] {
+    float: center;
+    padding: 15px;
+    
+}
+
+
+html {
+    font-family: "Arial", sans-serif;
+    background-color: #9932CC;
+    display: table;
+    margin: auto;
+}
+
+
+.heading {
+    
+    font-family: "Georgia", serif;
+    font-size: 24px;
+    text-align: center;
+    color: #0000FF;
+    padding: 10px;
+}
+.menu h3 {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #0e0e3f;
+    color: #0000FF;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: center;
+    text-align: center;
+}
+body {
+    vertical-align: middle;
+    }

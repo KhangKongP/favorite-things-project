@@ -1,0 +1,54 @@
+{
+    "FavoriteThings":[
+        
+        {
+        "type": "games",
+        "name": "Diablo 3",
+        "image": "images/diablo.jpg",
+        "text": "One of my favorite games to play to blow off time."
+        },
+        {
+        "type": "games",
+        "name": "Pokemon",
+        "image": "images/pikachu.png",
+        "text": "I love playing pokemon with my son."
+            
+        },
+        {
+        "type": "dessert",
+        "name": "Ice Cream",
+        "image": "images/ice_cream.jpg",
+        "text": "I Enjoy ice cream on warm sunny days."
+            
+        },
+        {
+        "type": "sports",
+        "name": "Basketball",
+        "image": "images/cleve.jpg",
+        "text": "My favorite team is the cleveland cavaliers"
+            
+        },
+        {
+        "type": "color",
+        "name": "red",
+        "image": "images/Strawberries.jpg",
+        "text": "I like red because its the color of strawberries."
+            
+        },
+        {
+        "type": "fruit",
+        "name": "grapes",
+        "image": "images/grapes.jpg",
+        "text": "Grapes are delicious."
+            
+        },
+        {
+        "type": "car",
+        "name": "land rover",
+        "image": "images/landrover.jpg",
+        "text": "This car is so sweet if I could afford it."
+            
+        }
+    ]
+    
+}
